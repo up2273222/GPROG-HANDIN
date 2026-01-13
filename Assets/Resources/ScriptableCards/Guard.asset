@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e291096b1d1dd15458a3712dfe6fcc33, type: 3}
+  m_Name: Guard
+  m_EditorClassIdentifier: Assembly-CSharp::GuardDefinition
+  cardID: Guard
+  prefab: {fileID: 5301615892087744370, guid: 02a802896f09f7a49a2343c033c66e46, type: 3}
+  category: 1
+  blockGained: 5
